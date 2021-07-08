@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+h1{
+    font-size: 40px;
+}
+.pink-color{
+    color: palevioletred;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.top-banner{
+    background-image: url();
+}
