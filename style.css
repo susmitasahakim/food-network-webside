@@ -123,6 +123,7 @@ h2{
   .followers{
       margin-top: 10%;
       
+      
   }
 
   
@@ -132,22 +133,20 @@ h2{
       text-align: center;
       width: auto;
       justify-content: center;
-      border-color: black;
+     
+    
   }
   .team_child .team_followers{
-      background: white;
+      
+      background:pink;
       margin: 5px;
       margin-bottom: 50px;
       width: 300px;
       padding: 20px;
       color: #8a8b8b;
       position: relative;
-      
-      
-      
-
-
-  }
+    
+    }
   .team_child .team_followers h2{
       color: black;
       font-size: 50px;
